@@ -1,11 +1,11 @@
 # Go Programming Langauge Basics
 
-- [Format Specifier](format-specifier/main.go)
+- [format Specifier](format-specifier/main.go)
 - [arrays](arrays/main.go)
 - [hello-world](hello-world/main.go)
 - [loops](loops/main.go)
 - [vars](vars/main.go)
-- [Structs](structs/main.go)
+- [structs](structs/main.go)
 - [user-input](user-input/main.go)
 
 
