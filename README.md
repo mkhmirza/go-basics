@@ -8,6 +8,7 @@
 1. [functions](functions/main.go)
 1. [hash-maps](hash-maps/main.go)
 1. [hello-world](hello-world/main.go)
+1. [logical-operations](logical-operations/main.go)
 1. [loops](loops/main.go)
 1. [pointers](pointers/main.go)
 1. [range](range/main.go)
