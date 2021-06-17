@@ -10,6 +10,7 @@
 1. [hello-world](hello-world/main.go)
 1. [logical-operations](logical-operations/main.go)
 1. [loops](loops/main.go)
+1. [packages](packages/main.go)
 1. [pointers](pointers/main.go)
 1. [range](range/main.go)
 1. [read-file](read-file/main.go)
