@@ -20,14 +20,29 @@
 1. [vars](vars/main.go)
 1. [write-file](write-file/main.go)
 
+## Installing Go 
+To install Go programming langauge see [Install Golang](https://golang.org/doc/install).
 
-## Running A Go Code
+## Running a Go program
 ```
 cd arrays/
 go run main.go 
 ```
 
+## Building a Go program
+Build these following Go programs before running 
+- arguments
+- flags
+
+For Example:
+```
+cd arguments/
+go build main.go
+./main a b c   
+```
+
 ## Documentation
+- [Install Golang](https://golang.org/doc/install)
 - [Go Programming Language Document](https://golang.org/doc/)
 - [Go Language Play Ground](https://play.golang.org/)
 
