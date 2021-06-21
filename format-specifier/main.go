@@ -29,4 +29,18 @@ func main() {
 
 	// %t	the word true or false
 	fmt.Printf("Boolean: %t\n", false);
+
+
+	// any value can be printed as
+	fmt.Printf("%v\n", 43);
+	fmt.Printf("%v\n", "Hello World");
+	fmt.Printf("%v\n", true);
+
+	// type of a variable can be determined by
+	fmt.Printf("%v, %T\n", 43, 43);
+	fmt.Printf("%v, %T\n", "Hello World", "Hello World");
+	fmt.Printf("%v, %T\n", true, true);
+
+
+	
 }
