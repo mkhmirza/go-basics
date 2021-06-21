@@ -32,6 +32,7 @@ cd arrays/
 go run main.go 
 ```
 
+
 ## Building a Go program
 Build these following Go programs before running 
 - arguments
