@@ -5,8 +5,20 @@ import (
 	//"math"
 )
 
+// a block of constants can be declared using
+const (
+	pi = 3.1452;
+	e = 2.17;
+	g = 9.98;
+)
+
 func main() {
-	// declaring a constant
+
+	fmt.Printf("Value of PI: %v\n", pi);
+	fmt.Printf("Value of E: %v\n", e);
+	fmt.Printf("Gravity of Earth: %v\n", g);
+	
+	// declaring a in scope constant
 	const age int = 18;
 	fmt.Printf("Age Constant: %v\n", age);
 	// constants value cannot be change once declared
