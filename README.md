@@ -2,6 +2,7 @@
 
 1. [arguments](arguments/main.go)
 1. [arrays](arrays/main.go)
+1. [color](color/main.go)
 1. [conditionals](conditionals/main.go)
 1. [constants](constants/main.go)
 1. [conversions](conversions/main.go)
