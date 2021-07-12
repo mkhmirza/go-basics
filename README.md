@@ -24,6 +24,20 @@
 1. [vars](vars/main.go)
 1. [write-file](write-file/main.go)
 
+## Go Workspace
+
+- go/
+  - bin/
+  - pkg/
+  - src/
+    - github
+      - your-github-username/
+        - basics/
+
+For more information for how to setup a Golang workspace see [Golang Workspace](https://golang.org/doc/gopath_code#Workspaces).
+
+
+
 ## Installing Go 
 To install Go programming langauge see [Install Golang](https://golang.org/doc/install).
 
